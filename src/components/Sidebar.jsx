@@ -36,7 +36,7 @@ export default function Sidebar({ tab, setTab, onClose }) {
       {/* Logo */}
       <div className="flex items-center justify-between px-5 py-5" style={{ borderBottom: '1px solid rgba(255,255,255,0.07)' }}>
         <div>
-          <span className="font-bold text-base tracking-tight" style={{ color: '#ffffff' }}>Finance</span>
+          <span className="font-bold text-base tracking-tight" style={{ color: '#ffffff' }}>Monefy</span>
           <span className="font-bold text-base tracking-tight" style={{ color: 'var(--sidebar-text-muted)' }}> Toolkit</span>
         </div>
         {onClose && (

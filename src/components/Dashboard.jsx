@@ -15,6 +15,20 @@ import { Upload, AlertTriangle } from 'lucide-react'
 const fmt = n => `€${Math.abs(n).toLocaleString('en', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`
 const fmtShort = n => `€${Math.round(Math.abs(n)).toLocaleString('en')}`
 
+// Savings bar — rounds the top corners only when there is NO leftover stacked above.
+// When leftoverPos > 0, the top is kept flat so leftoverPos bar sits flush on top.
+function SavingsBar({ x, y, width, height, payload }) {
+  if (!height || height < 1) return null
+  const hasLeftover = payload && payload.leftoverPos > 0
+  const r = hasLeftover ? 0 : Math.min(4, height / 2, width / 2)
+  return (
+    <path
+      d={`M${x},${y+height} H${x+width} V${y+r} Q${x+width},${y} ${x+width-r},${y} H${x+r} Q${x},${y} ${x},${y+r} Z`}
+      fill="var(--accent)"
+    />
+  )
+}
+
 // Shortfall bar — only ever draws DOWNWARD (leftoverNeg is always ≤ 0).
 // Because direction is fixed, we don't need to guess: topY = zero line, botY = below it.
 function ShortfallBar({ x, y, width, height }) {
@@ -256,8 +270,8 @@ export default function Dashboard({ onRequestImport }) {
             <ReferenceLine y={0} stroke="var(--border)" strokeWidth={1.5} />
             <Bar dataKey="income" name="Income" fill="var(--green)" radius={[4,4,0,0]} />
             <Bar dataKey="expenses" name="Expenses" fill="var(--red)" radius={[4,4,0,0]} />
-            {/* savings (flat top) + leftoverPos (rounded top) stack upward */}
-            <Bar dataKey="savings" name="Savings" fill="var(--accent)" stackId="sav" radius={[0,0,0,0]} />
+            {/* savings: rounded top when alone, flat top when leftoverPos sits above */}
+            <Bar dataKey="savings" name="Savings" fill="var(--accent)" stackId="sav" shape={<SavingsBar />} />
             <Bar dataKey="leftoverPos" name="Leftover" fill="var(--yellow)" stackId="sav" radius={[4,4,0,0]} />
             {/* leftoverNeg always ≤ 0 — ShortfallBar draws downward with rounded bottom */}
             <Bar dataKey="leftoverNeg" name="Shortfall" fill="var(--yellow)" stackId="sav" shape={<ShortfallBar />} />
