@@ -45,6 +45,19 @@ date ; account ; category ; amount ; currency ; converted amount ; currency ; de
 
 ---
 
+## 🧪 Try It with Sample Data
+
+Don't have a Monefy export handy? A [`sample-data.csv`](./sample-data.csv) file is included in the repo — 6 months of realistic demo transactions (Jan–Jun 2025) covering all the app's features:
+
+- **Negative months** — January and April have more expenses than income, so the chart shows a downward yellow bar below the zero line
+- **Big purchases** — car repair (€480), Paris flight (€380), a Faro weekend (€350), and a spring jacket (€220) all trigger the Large Purchases card
+- **Freelance income** — February and May have extra Deposits on top of salary
+- **Varied savings rate** — ranges from negative to ~34%, making the trend line interesting
+
+> 💡 **Tip:** After importing, go to **Settings → Categories** and set `Investments` to the **Savings** type. This moves monthly ETF contributions out of expenses and into the savings stack on the chart.
+
+---
+
 ## 🚀 Getting Started
 
 ### Run locally

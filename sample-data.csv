@@ -1,0 +1,159 @@
+date,account,category,amount,currency,converted amount,currency,description
+1/1/2025,Cash,Rent,-700,EUR,-700,EUR,January rent
+1/1/2025,Cash,Salary,2200,EUR,2200,EUR,January salary
+1/3/2025,Cash,Food,-42.5,EUR,-42.5,EUR,Continente
+1/4/2025,Cash,Eating out,-28.9,EUR,-28.9,EUR,Tasca do Chico
+1/5/2025,Cash,Car,-52.3,EUR,-52.3,EUR,Galp
+1/6/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+1/7/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+1/8/2025,Cash,Food,-38.2,EUR,-38.2,EUR,Aldi
+1/10/2025,Cash,Eating out,-45,EUR,-45,EUR,Taberna da Rua das Flores
+1/11/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+1/12/2025,Cash,Investments,-300,EUR,-300,EUR,S&P 500 ETF
+1/13/2025,Cash,Health,-65,EUR,-65,EUR,GP consultation
+1/14/2025,Cash,Food,-35.8,EUR,-35.8,EUR,Pingo Doce
+1/15/2025,Cash,Car,-480,EUR,-480,EUR,Car repair - clutch replacement
+1/16/2025,Cash,Eating out,-22.5,EUR,-22.5,EUR,Go Natural
+1/17/2025,Cash,Entertainment,-15,EUR,-15,EUR,Cinema
+1/18/2025,Cash,Clothes,-89.99,EUR,-89.99,EUR,Zara winter sale
+1/19/2025,Cash,Food,-44.1,EUR,-44.1,EUR,Continente
+1/20/2025,Cash,Toiletry,-28.5,EUR,-28.5,EUR,Farfetch Beauty
+1/21/2025,Cash,Eating out,-55,EUR,-55,EUR,Confraria
+1/22/2025,Cash,Car,-2.5,EUR,-2.5,EUR,Telpark
+1/23/2025,Cash,Random,-38,EUR,-38,EUR,Amazon - organisers
+1/24/2025,Cash,Food,-39.6,EUR,-39.6,EUR,Aldi
+1/25/2025,Cash,Eating out,-18.9,EUR,-18.9,EUR,Cafe Central
+1/26/2025,Cash,Car,-3.2,EUR,-3.2,EUR,Estacionamento
+1/27/2025,Cash,Entertainment,-12,EUR,-12,EUR,Spotify Premium
+1/28/2025,Cash,Eating out,-42,EUR,-42,EUR,Bom Jardim
+1/29/2025,Cash,Vacations,-350,EUR,-350,EUR,Booking - Faro weekend
+1/30/2025,Cash,Learning,-45,EUR,-45,EUR,Udemy course
+1/31/2025,Cash,Health,-18.5,EUR,-18.5,EUR,Farmacia
+2/1/2025,Cash,Rent,-700,EUR,-700,EUR,February rent
+2/1/2025,Cash,Salary,2200,EUR,2200,EUR,February salary
+2/3/2025,Cash,Food,-38.9,EUR,-38.9,EUR,Continente
+2/4/2025,Cash,Eating out,-32,EUR,-32,EUR,Taberna
+2/5/2025,Cash,Car,-48.7,EUR,-48.7,EUR,Galp
+2/6/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+2/7/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+2/8/2025,Cash,Food,-41.2,EUR,-41.2,EUR,Aldi
+2/10/2025,Cash,Eating out,-38,EUR,-38,EUR,Cozinha da Felicidade
+2/11/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+2/12/2025,Cash,Investments,-300,EUR,-300,EUR,S&P 500 ETF
+2/14/2025,Cash,Eating out,-85,EUR,-85,EUR,Valentines dinner
+2/15/2025,Cash,Deposits,400,EUR,400,EUR,Freelance project
+2/15/2025,Cash,Food,-36.5,EUR,-36.5,EUR,Pingo Doce
+2/17/2025,Cash,Health,-22,EUR,-22,EUR,Dentist
+2/18/2025,Cash,Eating out,-28,EUR,-28,EUR,Go Natural
+2/19/2025,Cash,Entertainment,-20,EUR,-20,EUR,Concert tickets
+2/20/2025,Cash,Food,-44.8,EUR,-44.8,EUR,Continente
+2/21/2025,Cash,Toiletry,-35,EUR,-35,EUR,Sephora
+2/22/2025,Cash,Car,-2.8,EUR,-2.8,EUR,Telpark
+2/24/2025,Cash,Food,-39.2,EUR,-39.2,EUR,Aldi
+2/25/2025,Cash,Eating out,-25,EUR,-25,EUR,Cafe Lisboa
+2/26/2025,Cash,Random,-42,EUR,-42,EUR,Amazon - storage box
+2/27/2025,Cash,Car,-3.5,EUR,-3.5,EUR,Estacionamento
+2/28/2025,Cash,Learning,-29,EUR,-29,EUR,Book
+3/1/2025,Cash,Rent,-700,EUR,-700,EUR,March rent
+3/1/2025,Cash,Salary,2200,EUR,2200,EUR,March salary
+3/3/2025,Cash,Food,-43.5,EUR,-43.5,EUR,Continente
+3/4/2025,Cash,Eating out,-35,EUR,-35,EUR,Tasco do Bairro
+3/5/2025,Cash,Car,-55.2,EUR,-55.2,EUR,Galp
+3/6/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+3/7/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+3/8/2025,Cash,Food,-37.8,EUR,-37.8,EUR,Aldi
+3/10/2025,Cash,Eating out,-42,EUR,-42,EUR,Casa do Bacalhau
+3/11/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+3/12/2025,Cash,Investments,-300,EUR,-300,EUR,S&P 500 ETF
+3/13/2025,Cash,Food,-40.1,EUR,-40.1,EUR,Pingo Doce
+3/14/2025,Cash,Health,-35,EUR,-35,EUR,GP consultation
+3/15/2025,Cash,Clothes,-220,EUR,-220,EUR,Mango - spring jacket
+3/17/2025,Cash,Eating out,-28.5,EUR,-28.5,EUR,Go Natural
+3/18/2025,Cash,Entertainment,-18,EUR,-18,EUR,Cinema
+3/19/2025,Cash,Food,-38.9,EUR,-38.9,EUR,Continente
+3/20/2025,Cash,Toiletry,-22,EUR,-22,EUR,Farmacia
+3/21/2025,Cash,Car,-2.1,EUR,-2.1,EUR,Estacionamento
+3/22/2025,Cash,Eating out,-55,EUR,-55,EUR,Taberna da Rua das Flores
+3/24/2025,Cash,Food,-41.3,EUR,-41.3,EUR,Aldi
+3/25/2025,Cash,Random,-28,EUR,-28,EUR,Amazon - desk lamp
+3/26/2025,Cash,Car,-3.8,EUR,-3.8,EUR,Telpark
+3/27/2025,Cash,Eating out,-22,EUR,-22,EUR,Padaria Portuguesa
+3/28/2025,Cash,Learning,-35,EUR,-35,EUR,Coursera subscription
+4/1/2025,Cash,Rent,-700,EUR,-700,EUR,April rent
+4/1/2025,Cash,Salary,2200,EUR,2200,EUR,April salary
+4/2/2025,Cash,Food,-45.2,EUR,-45.2,EUR,Continente
+4/3/2025,Cash,Eating out,-38,EUR,-38,EUR,Tasca do Bairro
+4/4/2025,Cash,Car,-58.5,EUR,-58.5,EUR,Galp
+4/5/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+4/6/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+4/7/2025,Cash,Food,-39.8,EUR,-39.8,EUR,Aldi
+4/9/2025,Cash,Eating out,-62,EUR,-62,EUR,O Paparico
+4/10/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+4/11/2025,Cash,Investments,-300,EUR,-300,EUR,S&P 500 ETF
+4/12/2025,Cash,Food,-42.3,EUR,-42.3,EUR,Pingo Doce
+4/14/2025,Cash,Vacations,-380,EUR,-380,EUR,Ryanair - Paris long weekend
+4/15/2025,Cash,Health,-28,EUR,-28,EUR,Farmacia
+4/16/2025,Cash,Eating out,-35,EUR,-35,EUR,Go Natural
+4/17/2025,Cash,Entertainment,-45,EUR,-45,EUR,Museum tickets
+4/18/2025,Cash,Food,-38.6,EUR,-38.6,EUR,Continente
+4/20/2025,Cash,Toiletry,-19.5,EUR,-19.5,EUR,Farmacia
+4/21/2025,Cash,Car,-3.5,EUR,-3.5,EUR,Telpark
+4/22/2025,Cash,Eating out,-28,EUR,-28,EUR,Cafe Lisboa
+4/23/2025,Cash,Gifts,-88,EUR,-88,EUR,Birthday gift
+4/24/2025,Cash,Food,-43.1,EUR,-43.1,EUR,Aldi
+4/25/2025,Cash,Random,-55,EUR,-55,EUR,Amazon - kitchen items
+4/26/2025,Cash,Car,-2.8,EUR,-2.8,EUR,Estacionamento
+4/28/2025,Cash,Eating out,-42,EUR,-42,EUR,Confraria
+4/29/2025,Cash,Learning,-49,EUR,-49,EUR,Udemy bundle
+5/1/2025,Cash,Rent,-700,EUR,-700,EUR,May rent
+5/1/2025,Cash,Salary,2200,EUR,2200,EUR,May salary
+5/2/2025,Cash,Food,-41.5,EUR,-41.5,EUR,Continente
+5/3/2025,Cash,Eating out,-32,EUR,-32,EUR,Tasca
+5/4/2025,Cash,Car,-54.8,EUR,-54.8,EUR,Galp
+5/5/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+5/6/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+5/7/2025,Cash,Food,-38.9,EUR,-38.9,EUR,Aldi
+5/9/2025,Cash,Eating out,-45,EUR,-45,EUR,Taberna da Rua das Flores
+5/10/2025,Cash,Deposits,600,EUR,600,EUR,Freelance bonus
+5/10/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+5/12/2025,Cash,Investments,-400,EUR,-400,EUR,S&P 500 ETF - increased contribution
+5/13/2025,Cash,Food,-43.2,EUR,-43.2,EUR,Pingo Doce
+5/14/2025,Cash,Health,-15,EUR,-15,EUR,Farmacia
+5/15/2025,Cash,Eating out,-35,EUR,-35,EUR,Go Natural
+5/16/2025,Cash,Entertainment,-38,EUR,-38,EUR,Lisbon Stories festival
+5/17/2025,Cash,Food,-40.1,EUR,-40.1,EUR,Continente
+5/19/2025,Cash,Toiletry,-25,EUR,-25,EUR,Sephora
+5/20/2025,Cash,Car,-2.2,EUR,-2.2,EUR,Estacionamento
+5/21/2025,Cash,Eating out,-28.5,EUR,-28.5,EUR,Padaria Portuguesa
+5/22/2025,Cash,Random,-35,EUR,-35,EUR,Amazon - cables
+5/23/2025,Cash,Food,-44.8,EUR,-44.8,EUR,Aldi
+5/25/2025,Cash,Clothes,-75,EUR,-75,EUR,H&M summer
+5/26/2025,Cash,Car,-3.1,EUR,-3.1,EUR,Telpark
+5/27/2025,Cash,Eating out,-52,EUR,-52,EUR,Bom Jardim
+5/28/2025,Cash,Learning,-39,EUR,-39,EUR,Programming book
+6/1/2025,Cash,Rent,-700,EUR,-700,EUR,June rent
+6/2/2025,Cash,Salary,2200,EUR,2200,EUR,June salary
+6/2/2025,Cash,Food,-44.3,EUR,-44.3,EUR,Continente
+6/3/2025,Cash,Eating out,-38,EUR,-38,EUR,Tasca
+6/4/2025,Cash,Car,-57.5,EUR,-57.5,EUR,Galp
+6/5/2025,Cash,Subscriptions,-19,EUR,-19,EUR,Netflix + Spotify
+6/6/2025,Cash,Gym,-35,EUR,-35,EUR,Holmes Place
+6/7/2025,Cash,Food,-39.8,EUR,-39.8,EUR,Aldi
+6/9/2025,Cash,Eating out,-52,EUR,-52,EUR,Confraria
+6/10/2025,Cash,Communications,-12,EUR,-12,EUR,MEO mobile
+6/11/2025,Cash,Investments,-300,EUR,-300,EUR,S&P 500 ETF
+6/12/2025,Cash,Food,-46.5,EUR,-46.5,EUR,Pingo Doce
+6/13/2025,Cash,Vacations,-280,EUR,-280,EUR,Hotel Algarve - summer booking
+6/14/2025,Cash,Health,-32,EUR,-32,EUR,GP consultation
+6/15/2025,Cash,Eating out,-28,EUR,-28,EUR,Go Natural
+6/17/2025,Cash,Entertainment,-55,EUR,-55,EUR,NOS Alive tickets
+6/18/2025,Cash,Food,-41.2,EUR,-41.2,EUR,Continente
+6/19/2025,Cash,Toiletry,-31,EUR,-31,EUR,Sephora
+6/20/2025,Cash,Car,-2.5,EUR,-2.5,EUR,Estacionamento
+6/21/2025,Cash,Eating out,-45,EUR,-45,EUR,Bom Jardim
+6/23/2025,Cash,Clothes,-129,EUR,-129,EUR,Summer clothes
+6/24/2025,Cash,Food,-43.8,EUR,-43.8,EUR,Aldi
+6/25/2025,Cash,Random,-29,EUR,-29,EUR,Amazon
+6/26/2025,Cash,Car,-3.2,EUR,-3.2,EUR,Telpark
+6/27/2025,Cash,Eating out,-38,EUR,-38,EUR,Cafe Lisboa
+6/28/2025,Cash,Gifts,-65,EUR,-65,EUR,Birthday present
